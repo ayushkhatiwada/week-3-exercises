@@ -1,3 +1,5 @@
+# Top level cmake config file
+
 cmake_minimum_required(VERSION 3.16)
 project(Automata_Example
   VERSION 0.0.1
