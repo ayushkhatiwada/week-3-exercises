@@ -1,0 +1,8 @@
+/workspaces/week-3-exercises/Measurement_Example/build/CMakeFiles/edit_cache.dir
+/workspaces/week-3-exercises/Measurement_Example/build/CMakeFiles/rebuild_cache.dir
+/workspaces/week-3-exercises/Measurement_Example/build/source/CMakeFiles/Measurements.dir
+/workspaces/week-3-exercises/Measurement_Example/build/source/CMakeFiles/edit_cache.dir
+/workspaces/week-3-exercises/Measurement_Example/build/source/CMakeFiles/rebuild_cache.dir
+/workspaces/week-3-exercises/Measurement_Example/build/test/CMakeFiles/TestMeasurements.dir
+/workspaces/week-3-exercises/Measurement_Example/build/test/CMakeFiles/edit_cache.dir
+/workspaces/week-3-exercises/Measurement_Example/build/test/CMakeFiles/rebuild_cache.dir

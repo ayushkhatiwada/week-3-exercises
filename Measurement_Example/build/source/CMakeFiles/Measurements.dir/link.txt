@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMeasurements.a CMakeFiles/Measurements.dir/Measurements.cpp.o
+/usr/bin/ranlib libMeasurements.a

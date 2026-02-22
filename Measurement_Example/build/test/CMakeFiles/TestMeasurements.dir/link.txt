@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wall -Werror CMakeFiles/TestMeasurements.dir/test_measurements.cpp.o -o ../bin/TestMeasurements  ../source/libMeasurements.a /usr/local/lib/libCatch2Main.a /usr/local/lib/libCatch2.a 
